@@ -61,11 +61,11 @@
             <plugin>
                 <groupId>com.google.cloud.tools</groupId>
                 <artifactId>jib-maven-plugin</artifactId>
-                <version>0.9.8</version>
+                <version>1.0.0-rc2</version>
                 <configuration>
                     <from>
                         <!--base image-->
-                        <image>openjdk:alpine</image>
+                        <image>registry.cn-hangzhou.aliyuncs.com/java-jdk/openjdk:8</image>
                     </from>
                     <to>
                         <!--目标镜像registry地址，为了方便测试，你需要换成自己的地址，如果你的网络不好，可以选用国内加速器，比如阿里云的-->
