@@ -1,4 +1,4 @@
-package com.cbwleft.streaming.sse;
+package com.cbwleft.streaming.sse.many2one;
 
 import lombok.Getter;
 import org.springframework.context.ApplicationEvent;

@@ -1,4 +1,4 @@
-package com.cbwleft.streaming.sse;
+package com.cbwleft.streaming.sse.many2one;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.ApplicationEventPublisher;
